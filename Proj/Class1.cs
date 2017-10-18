@@ -9,5 +9,8 @@ namespace Proj
 
         private string _camelCase;  // (3)
         private string _PascalCase;  // (4)
+
+        private string camel_case;  // (5)
+        private string Pascal_Case;  // (6)
     }
 }
